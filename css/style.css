@@ -76,7 +76,6 @@ p {
 /** Header **/
 
 .header {
-    margin-top: 2rem;
     background-color: var(--primario);
     padding: var(--padding);
 }
